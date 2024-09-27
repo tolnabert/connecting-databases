@@ -1,0 +1,98 @@
+[
+  {
+    "module": "ProgBasics",
+    "mentor": "peter.szarka@codecool.com",
+    "student": "norbert@example.com",
+    "date": "2024-02-01",
+    "cancelled": true,
+    "comment": "Foo was sick."
+  },
+  {
+    "module": "ProgBasics",
+    "mentor": "peter.szarka@codecool.com",
+    "student": "norbert@example.com",
+    "date": "2024-02-05",
+    "cancelled": false,
+    "success": true,
+    "comment": "Everything was ok.",
+    "results": [
+      {
+        "dimension": "Coding",
+        "result": 80
+      },
+      {
+        "dimension": "Communication",
+        "result": 100
+      }
+    ]
+  },
+  {
+    "module": "Web",
+    "mentor": "mano.fabian@codecool.com",
+    "student": "norbert@example.com",
+    "date": "2024-05-11",
+    "cancelled": false,
+    "success": false,
+    "comment": "Couldn't really start, just wrote some HTML.",
+    "results": [
+      {
+        "dimension": "Coding",
+        "result": 0
+      },
+      {
+        "dimension": "HTML",
+        "result": 30
+      },
+      {
+        "dimension": "Communication",
+        "result": 30
+      }
+    ]
+  },
+  {
+    "module": "Web",
+    "mentor": "peter.szarka@codecool.com",
+    "student": "norbert@example.com",
+    "date": "2024-05-21",
+    "cancelled": false,
+    "success": false,
+    "comment": "Wrote spaghetti code, and tried to sell it. Nice page, though.",
+    "results": [
+      {
+        "dimension": "Coding",
+        "result": 20
+      },
+      {
+        "dimension": "HTML",
+        "result": 100
+      },
+      {
+        "dimension": "Communication",
+        "result": 80
+      }
+    ]
+  },
+  {
+    "module": "homework",
+    "mentor": "peter.szarka@codecool.com",
+    "student": "norbert@example.com",
+    "date": "2024-09-27",
+    "cancelled": false,
+    "success": true,
+    "comment": "Did a nice job.",
+    "results": [
+      {
+        "dimension": "done",
+        "result": 80
+      },
+      {
+        "dimension": "layered",
+        "result": 100
+      },
+      {
+        "dimension": "presentation",
+        "result": 80
+      }
+    ]
+  }
+]
